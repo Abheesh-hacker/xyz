@@ -5,6 +5,10 @@ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;3
 clear
 mpv /$HOME/Arvish-is-back/terminal.mp3
 clear
+cd Arvish-is-back
+mpv terminal.mp3
+cd
+
 echo -e "Created By github.com/Abheesh-hacker/Arvish-is-back" | lolcat
 echo "----------------------------" | lolcat
 echo "BY script arvish " | lolcat
